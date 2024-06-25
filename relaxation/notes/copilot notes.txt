@@ -1,0 +1,65 @@
+Basic Widgets:
+
+Button
+Checkbox
+Radio Button
+Text
+Label
+Input Text
+Slider (Float, Int)
+Drag (Float, Int)
+Color Picker
+Date Picker
+Time Picker
+Combo Box
+Listbox
+Progress Bar
+
+Containers and Layouts:
+
+Child Window
+Group
+Collapsing Header
+Tab Bar
+Tab
+Tree Node
+Window
+
+Advanced Widgets:
+
+Table
+Plot
+Image
+Drawing
+Textures
+
+Input Widgets:
+
+Input Float
+Input Int
+Input Double
+Input Text
+Input Multiline
+
+Value Widgets:
+
+Meter
+Gauge
+Knob
+
+Node Editor Widgets:
+
+Node Editor
+Nodes
+Node Attributes
+
+Miscellaneous Widgets:
+
+Tooltip
+Popup
+Modal
+File Dialog
+Directory Selector
+Custom Widgets:
+
+You can also create custom widgets using the drawing API or by combining existing widgets in creative ways.
